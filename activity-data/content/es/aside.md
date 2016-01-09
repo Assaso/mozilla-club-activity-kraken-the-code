@@ -1,14 +1,14 @@
-#### Destinatarixs
+#### Audiencia
 
 * 8+
-* Jóvenes pensadorxs críticos
+* Jóvenes pensadores críticos
 * Todos en MLN
 
 #### Materiales
 
-* Papeles y biromes 
+* Papeles y bolígrafos
 * Navegadores Web
-* [Planilla del Legitómetro](https://ia601508.us.archive.org/30/items/LEGITOMETROES/LEGIT-O-ETER-ES.pdf)
+* Imprimir [Planilla del Legitómetro](https://ia601508.us.archive.org/30/items/LEGITOMETROES/LEGIT-O-ETER-ES.pdf)
 
 #### Objetivos de aprendizaje
 
@@ -21,11 +21,11 @@
 
 #### Como los aprendices se convierten en mentores
 
-* Acompañar a un estudiante o facilitador menos experimentado par que pueda practicar el liderar esta actividad.
-* Si un estudiante va más rápido o está más confiado con la actividad, proponerle que ayude como mentor de otro grupo de pares.
-* Terminar proponiendo a sus estudiantes que enseñen usando esta actividad a sus amigos y familiares.
+* Acompañar a un estudiante o facilitador menos experimentado para que pueda practicar el liderar esta actividad.
+* Si un estudiante va más rápido o está más confiado con la actividad, proponerle que ayude como mentor de otro grupo.
+* Al terminar proponer a sus estudiantes que enseñen usando esta actividad a sus amigos y familiares.
 
 
 #### Ver remixes de la comunidad
-Miren la forma en que otros educadores y activistas modificaron et actividad para sus destinatarios específicos en nuetro
+Miren la forma en que otros educadores y activistas modificaron esta actividad para su audiencia específica en nuestro
  [Foro de Discusión](http://discourse.webmaker.org/t/testing-1-reading-for-the-web/1149/22).
